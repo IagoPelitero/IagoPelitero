@@ -1,16 +1,20 @@
-### Hi there 👋
+# Olá, pessoal 👋
 
-<!--
-**IagoPelitero/IagoPelitero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Iago Felipe, tenho 26 anos sou pai de "pet", um gatinho chamado Frajola, e trabalho ataualmente com telemarketing numa empresa terceirizada chamada Concentrix onde trabalho para um banco digital na área de chargeback.
 
-Here are some ideas to get you started:
+## Aprendendo:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1. Html (linguagem de marcação);
+2. PowerShell (terminal Windows);
+3. GitHub;
+4. Git (Sistema de controle deversionamento);
+5. CSS (limguagem de estilização);
+6. Bash (terminal Linux).
+
+## Formação:
+Formado em técnico de Eletroeletrônica concluído em 2017 pelo Senai Santo André.
+
+### Informações Adicionais: 
+
+- 📫 Pelo LinkedIn: Iago Pelitero ou WhatsApp: + 55 11 97805-9550;
+- 😄 Pronomes: Ele/Dele
