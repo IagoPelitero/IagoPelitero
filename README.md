@@ -1,8 +1,8 @@
 # Olá, pessoal 👋
 
-Me chamo Iago Felipe, tenho 26 anos sou pai de "pet", um gatinho chamado Frajola, e trabalho ataualmente com telemarketing numa empresa terceirizada chamada Concentrix onde trabalho para um banco digital na área de chargeback.
+Me chamo Iago Felipe, tenho 26 anos e sou pai de "pet" (um gatinho chamado Frajola). Trabalho ataualmente com telemarketing numa empresa terceirizada chamada Concentrix onde trabalho para um banco digital na área de chargeback (fraudes e disputas por descordos comerciais).
 
-## Aprendendo:
+## O que estou aprendendo:
 
 1. Html (linguagem de marcação);
 2. PowerShell (terminal Windows);
@@ -16,7 +16,7 @@ Formado em técnico de Eletroeletrônica concluído em 2017 pelo Senai Santo And
 
 ### Informações Adicionais: 
 
-- 📫 Pelo LinkedIn: Iago Pelitero ou WhatsApp: + 55 11 97805-9550;
+- 📫 Pelo LinkedIn: [Iago Pelitero](www.linkedin.com/in/iagopelitero) ou WhatsApp: **+ 55 11 97805-9550**;
 - 😄 Pronomes: Ele/Dele
 - Link para acessar o [Guia básico do Markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
 
@@ -26,7 +26,7 @@ Formado em técnico de Eletroeletrônica concluído em 2017 pelo Senai Santo And
 ### Citação
 
 >"Sem sacrifícios, não há vitórias"
-
+>"O ontem é história. O amanhã é um mistério e o hoje é uma dádiva, por isso se chama presente."
 >"Amai-vos uns aos outros, assim como vos amei"
 
 ### Algumas tags HTML que estou aprendendo:
@@ -60,6 +60,8 @@ A tag `<body>` marca o conteúdo que será apresentado ao usuário. É o "corpo"
 A tag `<h1>` marca o título de importância nível 1 (mais importantes) exibido na página.
 
 A tag `<p>` marca o parágrafo.
+
+A tag `<div>` divide as informações em caixas para facilitar a estilização e separar determinados conteúdos.
 
 ### Tabela de proficiência em líguas
 
