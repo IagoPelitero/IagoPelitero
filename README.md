@@ -1,3 +1,24 @@
+#My name is Iago Pelitero
+<div align="center">
+   
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaopaulofserafim&show_icons=true&theme=transparent)
+
+</div>
+
+<div align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulofserafim&layout=compact&theme=transparent)
+
+</div>
+
+<div align="center" style="display: inline_block"><br/>
+    <img align="center" alt="" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img align="center" alt="" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img align="center" alt="" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    <img align="center" alt="" src="https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white"/>
+    <img align="center" alt="" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+</div>
+
 # Olá, pessoal 👋
 
 Me chamo Iago Felipe, tenho 26 anos e sou pai de "pet" (um gatinho chamado Frajola). Trabalho ataualmente com telemarketing numa empresa terceirizada chamada Concentrix onde trabalho para um banco digital na área de chargeback (fraudes e disputas por descordos comerciais).
