@@ -1,13 +1,13 @@
 #My name is Iago Pelitero
 <div align="center">
    
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IagoPeliterofserafim&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IagoPelitero&show_icons=true&theme=transparent)
 
 </div>
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IagoPeliterofserafim&layout=compact&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IagoPelitero&layout=compact&theme=transparent)
 
 </div>
 
