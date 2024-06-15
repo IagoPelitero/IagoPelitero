@@ -1,4 +1,4 @@
-#My name is Iago Pelitero
+# My name is Iago Pelitero
 <table>
   <tr>
     <td>
@@ -16,7 +16,7 @@
 Minha experiência de trabalho mais recente:
 
 **Operador de Telemarketing - Multiskill** \
-[**Concentrix**]([https://sp.senai.br/unidade/automobilistica/](https://www.concentrix.com/)) • Aprendendo no Senai Ipiranga Auotmobilística \
+[**Concentrix**](https://www.concentrix.com/) • Aprendendo no Senai Ipiranga Auotmobilística \
 Linguagens & Tecnologias: `JavaScript`, `CSS`, `HTML`, `Git`
 <br/> 
 
@@ -41,9 +41,9 @@ Formado em técnico de Eletroeletrônica concluído em 2017 pelo Senai Santo And
  <div align="center"> 
   <a align="center" href="https://www.instagram.com/iagopelitero/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a align="center" href="https://www.linkedin.com/in/iagopelitero/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a align="center" href="+551197805-9550"><img src="https://img.shields.io/badge/Whatspp-483D8B?style=flat&logo=Whatsapp&logoColor=green" target="_blank"></a>
 </div> 
 
-- WhatsApp: **+ 55 11 97805-9550**;
 - 😄 Pronomes: Ele/Dele
 - Link para acessar o [Guia básico do Markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
 
