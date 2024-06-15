@@ -1,15 +1,24 @@
 #My name is Iago Pelitero
-<div align="center">
-   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IagoPelitero&show_icons=true&theme=transparent)
+<table>
+  <tr>
+    <td>
+       <img align="left" src="https://github-readme-stats.vercel.app/api?username=IagoPelitero&show_icons=true&theme=radical" alt="Github stats" />
+    </td>
+    <td>
+<br/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IagoPelitero&layout=compact" alt="Github stats" />
+ </td>
+  </tr>
+</table><br/>
 
-</div>
+### Experiência de trabalho
 
-<div align="center">
+Minha experiência de trabalho mais recente:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IagoPelitero&layout=compact&theme=transparent)
-
-</div>
+**Operador de Telemarketing - Multiskill** \
+[**Concentrix**]([https://sp.senai.br/unidade/automobilistica/](https://www.concentrix.com/)) • Aprendendo no Senai Ipiranga Auotmobilística \
+Linguagens & Tecnologias: `JavaScript`, `CSS`, `HTML`, `Git`
+<br/> 
 
 # Olá, pessoal 👋
 
@@ -29,52 +38,20 @@ Formado em técnico de Eletroeletrônica concluído em 2017 pelo Senai Santo And
 
 ### Informações Adicionais: 
 
-- 📫 Pelo LinkedIn: [Iago Pelitero](www.linkedin.com/in/iagopelitero) ou WhatsApp: **+ 55 11 97805-9550**;
+ <div align="center"> 
+  <a align="center" href="https://www.instagram.com/iagopelitero/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a align="center" href="https://www.linkedin.com/in/iagopelitero/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div> 
+
+- WhatsApp: **+ 55 11 97805-9550**;
 - 😄 Pronomes: Ele/Dele
 - Link para acessar o [Guia básico do Markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
-
-## Aula N°15
-![Ilustração dos desenvolvedores](https://image.freepik.com/vetores-gratis/desenvolvedor-trabalhando-na-ilustracao-plana-da-interface_418302-681.jpg)
 
 ### Citação
 
 >"Sem sacrifícios, não há vitórias"
 >"O ontem é história. O amanhã é um mistério e o hoje é uma dádiva, por isso se chama presente."
 >"Amai-vos uns aos outros, assim como vos amei"
-
-### Algumas tags HTML que estou aprendendo:
-
-```html
-
-<!DOCTYPE html>
-<html lang="pt-BR">
-    <head>
-      <meta charset="UTF-8">
-      <title>Minha Página</title>
-    </head>
-  <body>
-    <h1>Minha Página</h1>
-    <p> Meu Parágrafo</p>
-  </body>
-</html>
-```
-A tag `<!DOCTYPE html>` indica versão do HTML no documento.
-
-A tag `<html lang="pt-BR">` indica o início do documento HTML. O atributo `lang="pt-BR"` indica o idioma da página.
-
-A tag `<head>` inidica onde ficam as meta informações da página. 
-
-A tag `<meta charset="UTF-8">` inidica que estamos informando ao navegador a informação de que a codificação daquela página é a UTF-8, o padrão de codificação mais utilizado, também chamado de Unicode — ou Conjunto de Caracteres Codificados Universal. O atributo `charset="UTF-8"` indica qual codificação está sendo usado na página.
-
-A tag `<title>` marca o título do documento no navegador (barra de título ou aba).
-
-A tag `<body>` marca o conteúdo que será apresentado ao usuário. É o "corpo" da página.
-
-A tag `<h1>` marca o título de importância nível 1 (mais importantes) exibido na página.
-
-A tag `<p>` marca o parágrafo.
-
-A tag `<div>` divide as informações em caixas para facilitar a estilização e separar determinados conteúdos.
 
 ### Tabela de proficiência em líguas
 
