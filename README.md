@@ -22,7 +22,7 @@ Linguagens & Tecnologias: `JavaScript`, `CSS`, `HTML`, `Git`
 
 # Olá, pessoal 👋
 
-Me chamo Iago Felipe, tenho 26 anos e sou pai de "pet" (um gatinho chamado Frajola). Trabalho ataualmente com telemarketing numa empresa terceirizada chamada Concentrix onde trabalho para um banco digital na área de chargeback (fraudes e disputas por descordos comerciais).
+Me chamo Iago Felipe, tenho 27 anos e sou pai de "pet" (um gatinho chamado Frajola). Trabalho ataualmente com telemarketing numa empresa terceirizada chamada Concentrix onde trabalho para um banco digital na área de chargeback (fraudes e disputas por descordos comerciais).
 
 ## O que estou aprendendo:
 
