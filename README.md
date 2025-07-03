@@ -30,7 +30,7 @@ Linguagens & Tecnologias: `JavaScript`, `CSS`, `HTML`, `Git`, `Python`, `Power B
 
 # Olá, pessoal 👋
 
-Me chamo Iago Felipe, tenho 27 anos e sou pai de "pet" (tenho 2 gatos sendo um chamado Frajola e o outro Astolfo). Trabalho ataualmente como atendente de cartões para empresa Porto, auxiliando o cliente com solicitações voltadas a cartão de crédito e com oferta de produtos podendo haver possibilidade de venda ao final do contato. Atualmente estou cursando uma graduação em Análise e desenvolvimento de sistemas pela instituição Unicid pelo formato EAD, mas fiz um curso pelo Senai para conceitos de Front-End, Python básico 1 e Power BI.
+Me chamo Iago Felipe e sou fã de animes. Tenho 2 gatos, sendo um chamado Frajola e o outro Astolfo (são meus pets grudentos). Trabalho ataualmente como atendente de cartões para empresa Porto, auxiliando o cliente com solicitações voltadas a cartão de crédito e com oferta de produtos podendo haver possibilidade de venda ao final do contato. Atualmente estou cursando uma graduação em Análise e desenvolvimento de sistemas pela instituição Unicid no formato EAD.
 
 ## O que aprendi:
 
