@@ -20,6 +20,14 @@ Minha experiência de trabalho mais recente:
 Linguagens & Tecnologias: `JavaScript`, `CSS`, `HTML`, `Git`, `Python`, `Power BI`, `Office 365`
 <br/> 
 
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/estrela801/estrela801/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/estrela801/estrela801/output/github-contribution-grid-snake.svg">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/JoaoRoccella/JoaoRoccella/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
+
 # Olá, pessoal 👋
 
 Me chamo Iago Felipe, tenho 27 anos e sou pai de "pet" (tenho 2 gatos sendo um chamado Frajola e o outro Astolfo). Trabalho ataualmente como atendente de cartões para empresa Porto, auxiliando o cliente com solicitações voltadas a cartão de crédito e com oferta de produtos podendo haver possibilidade de venda ao final do contato. Atualmente estou cursando uma graduação em Análise e desenvolvimento de sistemas pela instituição Unicid pelo formato EAD, mas fiz um curso pelo Senai para conceitos de Front-End, Python básico 1 e Power BI.
