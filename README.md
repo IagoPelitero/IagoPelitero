@@ -15,26 +15,31 @@
 
 Minha experiência de trabalho mais recente:
 
-**Operador de Telemarketing - Multiskill** \
-[**Concentrix**](https://www.concentrix.com/) • Aprendendo no Senai Ipiranga Auotmobilística \
-Linguagens & Tecnologias: `JavaScript`, `CSS`, `HTML`, `Git`
+**Operador de telemarketing** \
+[**Porto**](https://www.portoseguro.com.br/) • Aprendendo na Unicid - Análise e desenvolvimento de sistemas. \
+Linguagens & Tecnologias: `JavaScript`, `CSS`, `HTML`, `Git`, `Python`, `Power BI`, `Office 365`
 <br/> 
 
 # Olá, pessoal 👋
 
-Me chamo Iago Felipe, tenho 27 anos e sou pai de "pet" (um gatinho chamado Frajola). Trabalho ataualmente com telemarketing numa empresa terceirizada chamada Concentrix onde trabalho para um banco digital na área de chargeback (fraudes e disputas por descordos comerciais).
+Me chamo Iago Felipe, tenho 27 anos e sou pai de "pet" (tenho 2 gatos sendo um chamado Frajola e o outro Astolfo). Trabalho ataualmente como atendente de cartões para empresa Porto, auxiliando o cliente com solicitações voltadas a cartão de crédito e com oferta de produtos podendo haver possibilidade de venda ao final do contato. Atualmente estou cursando uma graduação em Análise e desenvolvimento de sistemas pela instituição Unicid pelo formato EAD, mas fiz um curso pelo Senai para conceitos de Front-End, Python básico 1 e Power BI.
 
-## O que estou aprendendo:
+## O que aprendi:
 
 <div align="center" style="display: inline_block"><br/>
-    <img align="center" alt="" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img align="center" alt="" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img align="center" alt="" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-    <img align="center" alt="" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="50" height="50">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" title="JavaScript" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="50" height="50">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" title="Figma" width="50" height="50">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python" width="50" height="50">
 </div>
 
 ## Formação:
 Formado em técnico de Eletroeletrônica concluído em 2017 pelo Senai Santo André.
+Formado em Desenvolvedor Front-End concluído em 2024 pelo Senai Automobilístico Ipiranga.
+Formado em Python básico I em 2024 pelo Senai Automobilístico Ipiranga.
+Formado em Power BI em 2024 pelo Senai Automobilístico Ipiranga.
+Superior em andamento no curso de Análise e desenvolvimento de sistemas com previsão de término em 2027 pela Unicid.
 
 ### Informações Adicionais: 
 
@@ -47,11 +52,9 @@ Formado em técnico de Eletroeletrônica concluído em 2017 pelo Senai Santo And
 - 😄 Pronomes: Ele/Dele
 - Link para acessar o [Guia básico do Markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
 
-### Citação
+### Citação:
 
->"Sem sacrifícios, não há vitórias"
->"O ontem é história. O amanhã é um mistério e o hoje é uma dádiva, por isso se chama presente."
->"Amai-vos uns aos outros, assim como vos amei"
+> "As pessoas esperam que o milagre caia do céu, mas muitos não percebem que podem ser o próprio milagre. Deseja um milagre filho? Seja o milagre!" - Todo poderoso.
 
 ### Tabela de proficiência em líguas
 
