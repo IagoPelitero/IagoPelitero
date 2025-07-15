@@ -2,11 +2,11 @@
 <table>
   <tr>
     <td>
-       <img align="left" src="https://github-readme-stats.vercel.app/api?username=IagoPelitero&show_icons=true&theme=radical" alt="Github stats" />
+       <img align="left" src="https://github-readme-stats.vercel.app/api?username=IagoPelitero&show_icons=true&theme=radical&include_all_commits=true" alt="Github stats" />
     </td>
     <td>
 <br/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IagoPelitero&layout=compact" alt="Github stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IagoPelitero&layout=compact&langs_count=8&card_width=400" />
  </td>
   </tr>
 </table><br/>
@@ -36,6 +36,7 @@ Me chamo Iago Felipe e sou fã de animes. Tenho 2 gatos, sendo um chamado Frajol
 
 <div align="center" style="display: inline_block"><br/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="50" height="50">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="Java" title="Java" width="50" height="50" /> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" title="JavaScript" width="50" height="50">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="50" height="50">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" title="Figma" width="50" height="50">
