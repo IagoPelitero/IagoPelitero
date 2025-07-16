@@ -17,7 +17,7 @@ Minha experiência de trabalho mais recente:
 
 **Operador de telemarketing** \
 [**Porto**](https://www.portoseguro.com.br/) • Aprendendo na Unicid - Análise e desenvolvimento de sistemas. \
-Linguagens & Tecnologias: `JavaScript`, `CSS`, `HTML`, `Git`, `Python`, `Power BI`, `Office 365`
+Linguagens & Tecnologias: `JavaScript`, `CSS`, `HTML`, `Git`, `Python`, `Java`
 <br/> 
 
 <div align="center">
