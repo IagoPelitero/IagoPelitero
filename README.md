@@ -20,13 +20,17 @@ Minha experiência de trabalho mais recente:
 Linguagens & Tecnologias: `JavaScript`, `CSS`, `HTML`, `Git`, `Python`, `Java`
 <br/> 
 
-<div align="center">
+<br>
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/estrela801/estrela801/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/estrela801/estrela801/output/github-contribution-grid-snake.svg">
-  <img alt="PacMan Snake" src="https://raw.githubusercontent.com/seu-usuario/seu-usuario/output/github-contribution-grid-pacman.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IagoPelitero/IagoPelitero/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IagoPelitero/IagoPelitero/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/IagoPelitero/IagoPelitero/output/pacman-contribution-graph.svg">
 </picture>
-</div>
+
+###
+
+###
 
 # Olá, pessoal 👋
 
