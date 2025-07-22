@@ -3,6 +3,7 @@
 ---
 <p align="left">
 Atualmente trabalho com atendimento ao cliente na Porto com foco em tratativas de cartão de crédito. Tenho 8 anos de experiência na área. Estou estudando tecnologia da informação para migrar de área. Tenho 2 gatos(Astolfo e Frajola) e sou irmão pai do Pedro.
+</p>
 
 ###
 ---
@@ -68,12 +69,14 @@ Atualmente trabalho com atendimento ao cliente na Porto com foco em tratativas d
 
  - Superior em andamento no curso de Análise e desenvolvimento de sistemas com previsão de término em 2027 pela Unicid.
 
+- Técnico em andamento de Back-End no Senai com previsão de conclusão em setembro de 2025.
+
 ###
 ---
 
-### Informações Adicionais: 
+### Meus contatos: 
 
-Se quiser compartilhar informações, chama no pv
+Se quiser conversar melhor aqui são meus melhores meios de contato:
 
 <p align="left">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=p.iago.ip@gmail.com" title="Gmail">
