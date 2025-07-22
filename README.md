@@ -9,6 +9,18 @@
 - 👨‍🏫 Também estou aprendendo no Senai - Back-End com foco em Java.
 <br/> 
 
+---
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IagoPelitero/IagoPelitero/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IagoPelitero/IagoPelitero/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/IagoPelitero/IagoPelitero/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+---
+
 
 ## O que aprendi:
 
