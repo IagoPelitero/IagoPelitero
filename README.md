@@ -27,11 +27,26 @@ Atualmente trabalho com atendimento ao cliente na Porto com foco em tratativas d
 ###
 ---
 
+<table>
+  <tr>
+    <td>
+       <img align="left" src="https://github-readme-stats.vercel.app/api?username=IagoPelitero&show_icons=true&theme=radical" alt="Github stats" />
+    </td>
+    <td>
+<br/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IagoPelitero&layout=compact" alt="Github stats" />
+ </td>
+  </tr>
+</table><br/>
+
+### 
+---
+
 
 ## O que aprendi:
 ---
 
-### Tecnologias e linguagens
+### Tecnologias e linguagens:
 
 [![MySkills](https://skillicons.dev/icons?i=html,css,js,java,py)](https://skillicons.dev)
 ---
@@ -63,24 +78,11 @@ Se quiser compartilhar informações, chama no pv
 <p align="left">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=p.iago.ip@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
-  
+   <a align="center" href="https://www.linkedin.com/in/iagopelitero/" target="_blank">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+ <a align="center" href="https://www.instagram.com/iagopelitero/" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
 </p>
-
----
- 
-<table>
-  <tr>
-    <td>
-       <img align="left" src="https://github-readme-stats.vercel.app/api?username=IagoPelitero&show_icons=true&theme=radical" alt="Github stats" />
-    </td>
-    <td>
-<br/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IagoPelitero&layout=compact" alt="Github stats" />
- </td>
-  </tr>
-</table><br/>
 
 ###
 ---
