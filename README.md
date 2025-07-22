@@ -26,10 +26,10 @@
 
 ### Tecnologias e linguagens
 
-[!MySkills(https://skillicons.dev/icons?i=html,css,js,,java,py)](https://skillicons.dev)
+[![MySkills](https://skillicons.dev/icons?i=html,css,js,,java,py)](https://skillicons.dev)
 
 ### Ferramentas e IDE's de desenvolvimento:
-[!MySkills(https://skillicons.dev/icons?i=git,github,figma,eclipse,npm,vscode)](https://skillicons.dev)
+[![MySkills](https://skillicons.dev/icons?i=git,github,figma,eclipse,npm,vscode)](https://skillicons.dev)
 
 ## Formação:
 Formado em técnico de Eletroeletrônica concluído em 2017 pelo Senai Santo André.
