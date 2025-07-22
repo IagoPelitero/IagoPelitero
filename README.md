@@ -24,13 +24,12 @@
 
 ## O que aprendi:
 
-<div align="center" style="display: inline_block"><br/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="50" height="50">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" title="JavaScript" width="50" height="50">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="50" height="50">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" title="Figma" width="50" height="50">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python" width="50" height="50">
-</div>
+### Tecnologias e linguagens
+
+[!MySkills(https://skillicons.dev/icons?i=html,css,js,,java,py)](https://skillicons.dev)
+
+### Ferramentas e IDE's de desenvolvimento:
+[!MySkills(https://skillicons.dev/icons?i=git,github,figma,eclipse,npm,vscode)](https://skillicons.dev)
 
 ## Formação:
 Formado em técnico de Eletroeletrônica concluído em 2017 pelo Senai Santo André.
