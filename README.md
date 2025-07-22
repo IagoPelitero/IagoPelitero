@@ -1,8 +1,11 @@
 # Hi dev's, me chamo Iago Felipe
 
----
 <p align="left">
-Atualmente trabalho com atendimento ao cliente na Porto com foco em tratativas de cartão de crédito. Tenho 8 anos de experiência na área. Estou estudando tecnologia da informação para migrar de área. Tenho 2 gatos(Astolfo e Frajola) e sou irmão pai do Pedro.
+Atualmente atuo na área de atendimento ao cliente na <strong>Porto</strong>, com foco em tratativas relacionadas a cartão de crédito. Tenho 8 anos de experiência nessa área, o que me proporcionou habilidades incríveis em comunicação, resolução de problemas e atendimento eficiente.
+
+Estou em transição para a área de Tecnologia da Informação, onde venho me dedicando aos estudos para expandir minhas competências e migrar para essa nova carreira.
+
+Além do meu lado profissional, sou apaixonado por gatos — tenho dois companheiros, Astolfo e Frajola. Também sou irmão e pai do Pedro, que são partes importantes da minha vida.
 </p>
 
 ###
@@ -45,7 +48,6 @@ Atualmente trabalho com atendimento ao cliente na Porto com foco em tratativas d
 
 
 ## O que aprendi:
----
 
 ### Tecnologias e linguagens:
 
@@ -89,6 +91,10 @@ Se quiser conversar melhor aqui são meus melhores meios de contato:
 
 ###
 ---
+
+<p align="center">
+  Iago Pelitero's status
+</p>
 <br><br>
 <div align="center">
   <a href="#">
