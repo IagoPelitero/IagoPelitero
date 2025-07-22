@@ -1,15 +1,5 @@
-# My name is Iago Pelitero
-<table>
-  <tr>
-    <td>
-       <img align="left" src="https://github-readme-stats.vercel.app/api?username=IagoPelitero&show_icons=true&theme=radical" alt="Github stats" />
-    </td>
-    <td>
-<br/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IagoPelitero&layout=compact" alt="Github stats" />
- </td>
-  </tr>
-</table><br/>
+# Hi dev's, me chamo Iago Felipe
+
 
 ### Experiência de trabalho
 
@@ -46,19 +36,17 @@ Superior em andamento no curso de Análise e desenvolvimento de sistemas com pre
  <div align="center"> 
   <a align="center" href="https://www.instagram.com/iagopelitero/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a align="center" href="https://www.linkedin.com/in/iagopelitero/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a align="center" href="+551197805-9550"><img src="https://img.shields.io/badge/Whatspp-483D8B?style=flat&logo=Whatsapp&logoColor=green" target="_blank"></a>
-</div> 
 
-- 😄 Pronomes: Ele/Dele
 - Link para acessar o [Guia básico do Markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
 
-### Citação:
-
-> "As pessoas esperam que o milagre caia do céu, mas muitos não percebem que podem ser o próprio milagre. Deseja um milagre filho? Seja o milagre!" - Todo poderoso.
-
-### Tabela de proficiência em líguas
-
-Idioma | Nível
-:------: | :-------:
-Inglês | Intermediário (B1)
-Espanhol | Intermediário 
+<table>
+  <tr>
+    <td>
+       <img align="left" src="https://github-readme-stats.vercel.app/api?username=IagoPelitero&show_icons=true&theme=radical" alt="Github stats" />
+    </td>
+    <td>
+<br/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IagoPelitero&layout=compact" alt="Github stats" />
+ </td>
+  </tr>
+</table><br/>
