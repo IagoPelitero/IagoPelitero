@@ -1,18 +1,14 @@
 # Hi dev's, me chamo Iago Felipe
 
 
-### Experiência de trabalho
+## Meu status atual:
 
-Minha experiência de trabalho mais recente:
-
-**Operador de telemarketing** \
-[**Porto**](https://www.portoseguro.com.br/) • Aprendendo na Unicid - Análise e desenvolvimento de sistemas. \
-Linguagens & Tecnologias: `JavaScript`, `CSS`, `HTML`, `Git`, `Python`, `Power BI`, `Office 365`
+- 👷 Minha experiência de trabalho mais recente é como **Operador de telemarketing** \
+[**Porto**](https://www.portoseguro.com.br/).
+- 👨‍🏫 Aprendendo na Unicid - Análise e desenvolvimento de sistemas. 
+- 👨‍🏫 Também estou aprendendo no Senai - Back-End com foco em Java.
 <br/> 
 
-# Olá, pessoal 👋
-
-Me chamo Iago Felipe, tenho 27 anos e sou pai de "pet" (tenho 2 gatos sendo um chamado Frajola e o outro Astolfo). Trabalho ataualmente como atendente de cartões para empresa Porto, auxiliando o cliente com solicitações voltadas a cartão de crédito e com oferta de produtos podendo haver possibilidade de venda ao final do contato. Atualmente estou cursando uma graduação em Análise e desenvolvimento de sistemas pela instituição Unicid pelo formato EAD, mas fiz um curso pelo Senai para conceitos de Front-End, Python básico 1 e Power BI.
 
 ## O que aprendi:
 
