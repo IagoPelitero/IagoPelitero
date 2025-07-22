@@ -1,5 +1,11 @@
 # Hi dev's, me chamo Iago Felipe
 
+---
+<p align="left">
+Atualmente trabalho com atendimento ao cliente na Porto com foco em tratativas de cartão de crédito. Tenho 8 anos de experiência na área. Estou estudando tecnologia da informação para migrar de área. Tenho 2 gatos(Astolfo e Frajola) e sou irmão pai do Pedro.
+
+###
+---
 
 ## Meu status atual:
 
@@ -23,13 +29,18 @@
 
 
 ## O que aprendi:
+---
 
 ### Tecnologias e linguagens
 
 [![MySkills](https://skillicons.dev/icons?i=html,css,js,java,py)](https://skillicons.dev)
+---
 
 ### Ferramentas e IDE's de desenvolvimento:
 [![MySkills](https://skillicons.dev/icons?i=git,github,figma,eclipse,npm,vscode)](https://skillicons.dev)
+
+###
+---
 
 ## 🎓Formação:
  - Formado em técnico de Eletroeletrônica concluído em 2017 pelo Senai Santo André.
@@ -41,6 +52,9 @@
  - Formado em Power BI em 2024 pelo Senai Automobilístico Ipiranga.
 
  - Superior em andamento no curso de Análise e desenvolvimento de sistemas com previsão de término em 2027 pela Unicid.
+
+###
+---
 
 ### Informações Adicionais: 
 
@@ -54,6 +68,7 @@ Se quiser compartilhar informações, chama no pv
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
 </p>
 
+---
  
 <table>
   <tr>
@@ -66,3 +81,14 @@ Se quiser compartilhar informações, chama no pv
  </td>
   </tr>
 </table><br/>
+
+###
+---
+<br><br>
+<div align="center">
+  <a href="#">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=IagoPelitero&theme=transparent&hide_border=true&locale=pt_BR&exclude_days=Sun%2CSat&card_width=560" alt="GitHub Streak">
+  </a>
+</div>
+
+<br><br>
