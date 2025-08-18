@@ -90,6 +90,20 @@ Além do meu lado profissional, sou apaixonado por gatos — tenho dois companhe
 ###
 ---
 
+# 🚀 Projetos em Destaque
+
+### 📱 Landing Page Responsiva
+Site institucional fictício com layout adaptável para dispositivos móveis.  
+**Tecnologias:** HTML, CSS, JavaScript  
+🔗 [Ver projeto](https://github.com/IagoPelitero/landing-page-responsiva)
+
+---
+
+### 🐍 Automação com Python
+Script para automatizar envio de e-mails com anexos usando SMTP.  
+**Tecnologias:** Python, smtplib  
+🔗 [Ver projeto](https://github.com/IagoPelitero/python-email-automation)
+
 ### Meus contatos: 
 
 Se quiser conversar melhor, aqui são meus meios de contato mais ágeis:
@@ -108,7 +122,6 @@ Se quiser conversar melhor, aqui são meus meios de contato mais ágeis:
 
 ###
 ---
-
 <p align="center">
   Iago Pelitero's status
 </p>
