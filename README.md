@@ -63,7 +63,7 @@ Além do meu lado profissional, sou apaixonado por gatos — tenho dois companhe
 ---
 
 ### Ferramentas e IDE's de desenvolvimento:
-[![MySkills](https://skillicons.dev/icons?i=git,github,figma,eclipse,npm,vscode,springboot)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,figma,git,github,figma,eclipse,npm,vscode,spring&theme=light)](https://skillicons.dev)
 
 ###
 ---
