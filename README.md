@@ -102,7 +102,9 @@ Site institucional fictício com layout adaptável para dispositivos móveis.
 ### 🐍 Automação com Python
 Script para automatizar envio de e-mails com anexos usando SMTP.  
 **Tecnologias:** Python, smtplib  
-🔗 [Ver projeto](https://github.com/IagoPelitero/python-email-automation)
+🔗 [Ver projeto](https://github.com/IagoPelitero/email-automation-python)
+
+---
 
 ### Meus contatos: 
 
