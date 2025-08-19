@@ -58,15 +58,18 @@ Além do meu lado profissional, sou apaixonado por gatos — tenho dois companhe
 ## O que aprendi:
 
 ### Tecnologias e linguagens:
-
-[![MySkills](https://skillicons.dev/icons?i=html,css,js,java,py)](https://skillicons.dev)
----
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,java,py&theme=light" />
+  </a>
+</p>
 
 ### Ferramentas e IDE's de desenvolvimento:
-[![My Skills](https://skillicons.dev/icons?i=java,figma,git,github,figma,eclipse,npm,vscode,spring&theme=light)](https://skillicons.dev)
-
-###
----
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,figma,git,github,figma,eclipse,npm,vscode,spring&theme=light" />
+  </a>
+</p>
 
 ## 🎓 Formação Acadêmica e Técnica
 
