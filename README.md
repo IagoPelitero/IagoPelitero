@@ -95,19 +95,16 @@ Além do meu lado profissional, sou apaixonado por gatos — tenho dois companhe
 
 # 🚀 Projetos em Destaque
 
-### 📱 Landing Page Responsiva
+### 📱 CRUD interface
 Site institucional fictício com layout adaptável para dispositivos móveis.  
 **Tecnologias:** HTML, CSS, JavaScript  
-🔗 [Ver projeto](https://github.com/IagoPelitero/landing-page-responsiva)
-
+🔗 [Ver projeto](https://github.com/IagoPelitero/Front-End-Senai-Noite-T10/tree/main/CRUD%20user%20interface)
+###
 ---
-
-### 🐍 Automação com Python
-Script para automatizar envio de e-mails com anexos usando SMTP.  
-**Tecnologias:** Python, smtplib  
-🔗 [Ver projeto](https://github.com/IagoPelitero/email-automation-python)
-
----
+### 🐍 Joguinhio com Python
+Um jogo para apresentar os conhecimentos adquiridos na aula de Python 1
+**Tecnologias:** Python, google colab
+🔗 [Ver projeto](https://github.com/IagoPelitero/Python-basico-1-Senai/blob/main/JoguinhoComPython.py)
 
 ### Meus contatos: 
 
