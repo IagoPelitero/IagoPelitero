@@ -102,10 +102,11 @@ Site institucional fictício com layout adaptável para dispositivos móveis.
 ###
 ---
 ### 🐍 Joguinhio com Python
-Um jogo para apresentar os conhecimentos adquiridos na aula de Python 1
-**Tecnologias:** Python, google colab
+Um jogo para apresentar os conhecimentos adquiridos na aula de Python 1.  
+**Tecnologias:** Python, google colab  
 🔗 [Ver projeto](https://github.com/IagoPelitero/Python-basico-1-Senai/blob/main/JoguinhoComPython.py)
-
+###
+---
 ### Meus contatos: 
 
 Se quiser conversar melhor, aqui são meus meios de contato mais ágeis:
