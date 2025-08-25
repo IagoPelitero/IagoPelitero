@@ -5,7 +5,7 @@ Atualmente atuo na área de atendimento ao cliente na <strong>Porto</strong>, co
 
 Estou em transição para a área de Tecnologia da Informação, onde venho me dedicando aos estudos para expandir minhas competências e migrar para essa nova carreira.
 
-Além do meu lado profissional, sou apaixonado por gatos — tenho dois companheiros, Astolfo e Frajola. Também sou irmão e pai do Pedro, que são partes importantes da minha vida.
+Além do meu lado profissional, sou apaixonado por gatos — tenho dois companheiros, Astolfo e Frajola. Também sou irmão/pai do Pedro, que são partes importantes da minha vida.
 </p>
 
 ## 📅 Minha Jornada na Tecnologia
