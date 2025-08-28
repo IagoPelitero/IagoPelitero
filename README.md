@@ -60,14 +60,14 @@ Além do meu lado profissional, sou apaixonado por gatos — tenho dois companhe
 ### Tecnologias e linguagens:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,java,py&theme=light" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,java,py,mysql&theme=light" />
   </a>
 </p>
 
 ### Ferramentas e IDE's de desenvolvimento:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,figma,git,github,figma,eclipse,npm,vscode,spring,mysql,postman&theme=light" />
+    <img src="https://skillicons.dev/icons?i=figma,git,github,figma,eclipse,npm,vscode,spring,postman&theme=light" />
   </a>
 </p>
 
