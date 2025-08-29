@@ -107,6 +107,12 @@ Um jogo para apresentar os conhecimentos adquiridos na aula de Python 1.
 🔗 [Ver projeto](https://github.com/IagoPelitero/Python-basico-1-Senai/blob/main/JoguinhoComPython.py)
 ###
 ---
+### ☕ Projeto e-Commerce com Java
+Aplicação criada na IDE Eclipse para consolidar meus conhecimentos adquiridos nas aulas de Back-End.  
+**Tecnologias:** Java, Spring Boot, Eclipse, Postman  
+🔗 [Ver projeto](https://github.com/IagoPelitero/Back-End-Senai-T2/tree/main/ProjetoJavaPessoal/eCommerce)
+###
+---
 ### Meus contatos: 
 
 Se quiser conversar melhor, aqui são meus meios de contato mais ágeis:
