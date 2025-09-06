@@ -23,8 +23,7 @@ Além do meu lado profissional, sou apaixonado por gatos — tenho dois companhe
 ## Meu status atual:
 
 - 👷 Atualmente trabalho como **Operador de Telemarketing** na [**Porto**](https://www.portoseguro.com.br/), com foco em tratativas de cartão de crédito.
-- 👨‍🏫 Graduando na Unicid - Análise e desenvolvimento de sistemas. 
-- 👨‍🏫 Também estou aprendendo no Senai - Back-End com foco em Java.
+- 👨‍🏫 Graduando na Unicid - Análise e desenvolvimento de sistemas.
 <br/> 
 
 ---
@@ -85,7 +84,7 @@ Além do meu lado profissional, sou apaixonado por gatos — tenho dois companhe
 - 📊 **Curso de Power BI**  
   *Concluído em 2024 – SENAI Automobilístico Ipiranga*
 
-- 🔧 **Técnico em Back-End (em andamento)**  
+- 🔧 **Técnico em Back-End**  
   *Previsão de conclusão: Setembro de 2025 – SENAI*
 
 - 🎓 **Superior em Análise e Desenvolvimento de Sistemas (em andamento)**  
