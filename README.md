@@ -85,7 +85,7 @@ Além do meu lado profissional, sou apaixonado por gatos — tenho dois companhe
   *Concluído em 2024 – SENAI Automobilístico Ipiranga*
 
 - 🔧 **Técnico em Back-End**  
-  *Previsão de conclusão: Setembro de 2025 – SENAI*
+  *Concluído em 2025 – SENAI Automobilístico Ipiranga*
 
 - 🎓 **Superior em Análise e Desenvolvimento de Sistemas (em andamento)**  
   *Previsão de conclusão: 2027 – UNICID*
