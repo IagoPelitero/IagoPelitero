@@ -12,8 +12,7 @@ Além do meu lado profissional, sou apaixonado por gatos — tenho dois companhe
   
 - **2023** – Iniciei minha transição de carreira para TI quando soube do curso no Senai patrocinado pela **Ford**
 - **2024** – Concluí cursos de Front-End, Python e Power BI no SENAI Ipiranga
-- **2025** – Comecei o curso técnico de Back-End com foco em Java  
-- **2025** – Previsão de conclusão do técnico de Back-End  
+- **2025** – Concluí o curso técnico de Back-End  
 - **2027** – Previsão de conclusão do curso superior em Análise e Desenvolvimento de Sistemas pela UNICID  
 
 
