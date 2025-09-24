@@ -52,7 +52,6 @@ Além do meu lado profissional, sou apaixonado por gatos — tenho dois companhe
 ### 
 ---
 
-
 ## O que aprendi:
 
 ### Tecnologias e linguagens:
