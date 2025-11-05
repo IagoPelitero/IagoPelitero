@@ -21,7 +21,7 @@ Além do meu lado profissional, sou apaixonado por gatos — tenho dois companhe
 
 ## Meu status atual:
 
-- 👷 Atualmente trabalho como **Operador de Telemarketing** na [**Porto**](https://www.portoseguro.com.br/) N2 (retenção), com foco em tratativas de cartão de crédito.
+- 👷 Atualmente trabalho como **Operador de Telemarketing N2 (retenção)** na [**Porto**](https://www.portoseguro.com.br/), com foco em retenção de cartões e produtos do mesmo.
 - 👨‍🏫 Graduando na Unicid - Análise e desenvolvimento de sistemas.
 <br/> 
 
